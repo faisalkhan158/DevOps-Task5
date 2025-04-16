@@ -17,4 +17,4 @@ spec:
           image: node-kube-app
           imagePullPolicy: Never
           ports:
-            - containerPort: 3000
+            - containerPort: 3000 
